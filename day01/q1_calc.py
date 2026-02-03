@@ -1,0 +1,6 @@
+a = int (input("Enter a number as a: " ))
+b = int (input("Enter a number as b : " ))
+print(f"add :{ a + b }")
+print(f"sub :{ a - b }")
+print(f"mul :{ a * b }")
+print(f"div :{ a / b }")
