@@ -31,7 +31,7 @@ ai-engineer-course/
 - Build small applications
 - Gradually create AI and web-based projects
 
- ## Day01 - Python Basics
+## Day01 - Python Basics
 
 ### Files
 - day01/day1_hello.py : print の練習
@@ -48,4 +48,9 @@ ai-engineer-course/
 - for / while
 - input() and basic validation
 - basic program design (menu, loop, exit conditions)
+
+ 
+
+
+  
 
