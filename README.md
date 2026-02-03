@@ -18,9 +18,9 @@ Each project focuses on hands-on learning and building practical skills.
 ai-engineer-course/
 ├── README.md
 └── hello.py  # Python practice files will be added here
+```
 
 
-```markdown
 ## What I Learned
 - How to create and manage a GitHub repository
 - How to write a basic README.md
@@ -30,4 +30,4 @@ ai-engineer-course/
 - Add Python basic programs
 - Build small applications
 - Gradually create AI and web-based projects
-markdown```
+
