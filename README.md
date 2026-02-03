@@ -9,7 +9,7 @@ Each project focuses on hands-on learning and building practical skills.
 
 ## Environment
 - OS: Windows 
-- Python: 3.11
+- Python: 3.11.9
 - Editor: VS Code
 
 ## Repository Structure
