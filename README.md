@@ -14,6 +14,7 @@ Each project focuses on hands-on learning and building practical skills.
 
 ## Repository Structure
 ```text
+```text
 ai-engineer-course/
 ├── README.md
 └── hello.py  # Python practice files will be added here
