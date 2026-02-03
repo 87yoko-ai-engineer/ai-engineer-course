@@ -31,3 +31,21 @@ ai-engineer-course/
 - Build small applications
 - Gradually create AI and web-based projects
 
+ ## Day01 - Python Basics
+
+### Files
+- day01/day1_hello.py : print の練習
+- day01/q1_calc.py : 2数の四則演算（input / int / f-string）
+- day01/q2_grade.py : 条件分岐で成績判定（if / elif / else）
+- day01/q3_sum_loop.py : 複数入力の合計・平均・最大（for / range）
+- day01/q4_guess_game.py : 数当てゲーム（while / random）
+- day01/q5_menu_app.py : メニュー型アプリ（総合演習・終了制御）
+
+### What I learned
+- Variables / types (int, float, str)
+- Operators (+, -, *, /)
+- if / elif / else
+- for / while
+- input() and basic validation
+- basic program design (menu, loop, exit conditions)
+
