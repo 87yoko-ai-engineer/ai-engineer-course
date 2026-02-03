@@ -13,7 +13,7 @@ Each project focuses on hands-on learning and building practical skills.
 - Editor: VS Code
 
 ## Repository Structure
-
+```text
 ai-engineer-course/
 ├── README.md
-└── (Python files will be added here)
+└── hello.py  # Python practice files will be added here
