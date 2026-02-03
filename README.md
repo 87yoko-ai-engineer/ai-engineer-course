@@ -20,7 +20,7 @@ ai-engineer-course/
 └── hello.py  # Python practice files will be added here
 
 
-markdown
+```markdown
 ## What I Learned
 - How to create and manage a GitHub repository
 - How to write a basic README.md
@@ -30,3 +30,4 @@ markdown
 - Add Python basic programs
 - Build small applications
 - Gradually create AI and web-based projects
+markdown```
