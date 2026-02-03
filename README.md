@@ -49,7 +49,7 @@ ai-engineer-course/
 - input() and basic validation
 - basic program design (menu, loop, exit conditions)
 
-  <!-- test -->
+ 
 
 
   
