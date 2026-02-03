@@ -18,19 +18,12 @@ ai-engineer-course/
 ├── README.md
 └── hello.py  # Python practice files will be added here
 
-What I Learned
-
-How to create and manage a GitHub repository
-
-How to write a basic README.md
-
-The importance of documenting learning progress
-
-Future Plans
-
-Add Python basic programs
-
-Build small applications
-
-Gradually create AI and web-based projects
+## What I Learned
+- How to create and manage a GitHub repository
+- How to write a basic README.md
+- The importance of documenting learning progress
+- Future Plans
+- Add Python basic programs
+- Build small applications
+- Gradually create AI and web-based projects
 
